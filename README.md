@@ -7,7 +7,6 @@ https://archive.ics.uci.edu/ml/datasets/spambase
 
 Give it a TRY..! 
 
-# FAKE NEWS CLASSIFIER
+# FAKE NEWS CLASSIFIER - BAG OF WORDS
 The DataSet used in Fake news Classifier is taken from Kaggle
 https://www.kaggle.com/c/fake-news/data
-This Classifier is made using BAG OF WORDS.
